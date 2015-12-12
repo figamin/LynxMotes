@@ -1,5 +1,7 @@
 //Adds the css class orangeText if user posts <text
 
+'use strict';
+
 var common = require('../../engine/postingOps').common;
 
 exports.engineVersion = '1.3.3';
