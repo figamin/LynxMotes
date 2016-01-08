@@ -4,7 +4,7 @@
 
 var common = require('../../engine/postingOps').common;
 
-exports.engineVersion = '1.4.2';
+exports.engineVersion = '1.4.3';
 
 var orangeTextFunction = function(match) {
 
